@@ -2,6 +2,9 @@
 Curated list of solutions from stackoverflow &amp; others
 
 
+
+[Question](http://stackoverflow.com/questions/10058226/send-response-to-all-clients-except-sender-socket-io) 
+
 // Sending to sender-client only
 ```javascript
  socket.emit('message', "this is a test");
